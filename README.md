@@ -1,4 +1,4 @@
-# Calculator
+# 🧮Calculator
 This calculator application offers a dual approach to meet different user needs:
 1. User-Centric Approach: The calculator adapts based on the user's age group:
 
